@@ -1,0 +1,31 @@
+{
+    "name": "vscode-ucf-constraints-support",
+    "displayName": "vscode-ucf-constraints-support",
+    "description": "Vivado UCF constraints support for VS Code",
+    "version": "0.0.1",
+    "publisher": "mshr-h",
+    "homepage": "https://github.com/mshr-h/vscode-ucf-constraints-support",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mshr-h/vscode-ucf-constraints-support.git"
+    },
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "ucf",
+            "aliases": ["vivado ucf", "ucf"],
+            "extensions": ["ucf"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "ucf",
+            "scopeName": "",
+            "path": "./syntaxes/ucf.tmLanguage"
+        }]
+    }
+}
