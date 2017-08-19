@@ -4,7 +4,7 @@ Vivado UCF constraints support based on [https://github.com/al8/sublimetext-Veri
 
 ## Features
 
-### Done
+### In progress
 - Syntax highlighting for `.ucf` `.UCF` files
 
 ## GitHub repos
