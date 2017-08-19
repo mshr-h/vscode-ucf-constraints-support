@@ -1,6 +1,5 @@
 {
-    "name": "vscode-ucf-constraints-support",
-    "displayName": "vscode-ucf-constraints-support",
+    "name": "Vivado-UCF-Constraints",
     "description": "Vivado UCF constraints support for VS Code",
     "version": "0.0.1",
     "publisher": "mshr-h",
