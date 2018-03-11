@@ -2,7 +2,7 @@
     "name": "vivado-ucf-constraints",
     "displayName": "Vivado UCF Constraints",
     "description": "Vivado UCF constraints support for VS Code",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "mshr-h",
     "homepage": "https://github.com/mshr-h/vscode-ucf-constraints-support",
     "repository": {
@@ -24,7 +24,7 @@
         }],
         "grammars": [{
             "language": "ucf",
-            "scopeName": "",
+            "scopeName": "source.ucfconstraints",
             "path": "./syntaxes/ucf.tmLanguage"
         }]
     }
