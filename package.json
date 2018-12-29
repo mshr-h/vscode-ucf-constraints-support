@@ -2,7 +2,7 @@
     "name": "vivado-ucf-constraints",
     "displayName": "Vivado UCF Constraints",
     "description": "Vivado UCF constraints support for VS Code",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "mshr-h",
     "homepage": "https://github.com/mshr-h/vscode-ucf-constraints-support",
     "repository": {
